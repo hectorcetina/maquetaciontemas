@@ -51,6 +51,7 @@ body {
   flex-wrap: nowrap;
   gap: 70px;
   max-width: 1200px;
+  padding: 10px;
   /* border: 1px red solid; */
 }
 .rojo {
@@ -107,6 +108,7 @@ body {
   align-items: center;
   max-width: 1200px;
   gap: 70px;
+  padding: 10px;
   flex-wrap: nowrap;
   /* border: 1px red solid; */
 }
@@ -129,6 +131,7 @@ body {
   max-width: 1200px;
   margin: auto;
   padding-top: 50px;
+  padding: 15px;
   /* border: 1px red solid; */
 }
 .contenedorproductos3 figure {
@@ -146,6 +149,7 @@ body {
   align-items: center;
   gap: 30px;
   flex-wrap: wrap;
+  /* border: 1px red solid; */
 }
 .equipo article {
   max-width: 270px;
@@ -194,10 +198,10 @@ body {
     gap: 70px;
   }
   .fotonormal {
-    width: 90%;
+    width: 95%;
   }
   .fotogrande {
-    width: 90%;
+    width: 95%;
   }
   .contenedorproductos2 {
     padding-top: 50px;
@@ -210,6 +214,7 @@ body {
     justify-content: space-between;
     align-items: center;
     gap: 70px;
+    margin-top: 50px;
   }
   .equipo figure img {
     width: 100%;
