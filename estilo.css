@@ -211,4 +211,9 @@ body {
     align-items: center;
     gap: 70px;
   }
+  .equipo figure img {
+    width: 100%;
+    filter: grayscale(0%);
+    transition: all 0.5s;
+  }
 }
