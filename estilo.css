@@ -149,6 +149,7 @@ body {
   align-items: center;
   gap: 30px;
   flex-wrap: wrap;
+  padding: 15px;
   /* border: 1px red solid; */
 }
 .equipo article {
